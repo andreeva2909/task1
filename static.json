@@ -1,7 +1,8 @@
 {
   "headers": {
     "*/": {
-      "X-Author": "andreeva.anna2909"
+      "X-Author": "andreeva.anna2909",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
